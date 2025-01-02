@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a875c58c-4e16-482a-8bf1-5a243939d5a3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2qw8fI7RtJpq1IkZGE3lGZNuCDe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ApplicationExampleTest.addGradeResultsForStudentGrades.executor": "Run",
+    "JUnit.ApplicationExampleTest.addGradeResultsForStudentGradesAssertNotEquals.executor": "Run",
+    "JUnit.ApplicationExampleTest.checkNullForStudentGrades.executor": "Run",
+    "JUnit.ApplicationExampleTest.createStudentWithoutGradesInit.executor": "Run",
+    "JUnit.ApplicationExampleTest.findGradePointAverage.executor": "Run",
+    "JUnit.ApplicationExampleTest.isGradeGreaterStudentGrades.executor": "Run",
+    "JUnit.ApplicationExampleTest.isGradeGreaterStudentGradesAssertFalse.executor": "Run",
+    "JUnit.ApplicationExampleTest.verifyStudentsArePrototypes.executor": "Run",
+    "JUnit.MockAnnotationTest.assertEqualsTestFindGPA.executor": "Run",
+    "JUnit.MockAnnotationTest.stubbingConsecutiveCalls.executor": "Run",
+    "JUnit.MockAnnotationTest.testAddGrades.executor": "Run",
+    "JUnit.MockAnnotationTest.testAssertNotNull.executor": "Run",
+    "JUnit.MockAnnotationTest.testThrowRuntimeException.executor": "Run",
+    "JUnit.ReflectionTestUtilsTest.getPrivateField.executor": "Run",
+    "JUnit.ReflectionTestUtilsTest.invokePrivateMethod.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/HP/Java_courses/unit_testing/SpringBootUnitTesting/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ReflectionTestUtilsTest.invokePrivateMethod">
+    <configuration name="MockAnnotationTest.stubbingConsecutiveCalls" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.test.MockAnnotationTest" />
+      <option name="METHOD_NAME" value="stubbingConsecutiveCalls" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockAnnotationTest.testAssertNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.test.MockAnnotationTest" />
+      <option name="METHOD_NAME" value="testAssertNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockAnnotationTest.testThrowRuntimeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.test.MockAnnotationTest" />
+      <option name="METHOD_NAME" value="testThrowRuntimeException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTestUtilsTest.getPrivateField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.test.ReflectionTestUtilsTest" />
+      <option name="METHOD_NAME" value="getPrivateField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionTestUtilsTest.invokePrivateMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luv2code.test" />
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.test.ReflectionTestUtilsTest" />
+      <option name="METHOD_NAME" value="invokePrivateMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReflectionTestUtilsTest.invokePrivateMethod" />
+        <item itemvalue="JUnit.ReflectionTestUtilsTest.getPrivateField" />
+        <item itemvalue="JUnit.MockAnnotationTest.stubbingConsecutiveCalls" />
+        <item itemvalue="JUnit.MockAnnotationTest.testThrowRuntimeException" />
+        <item itemvalue="JUnit.MockAnnotationTest.testAssertNotNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a875c58c-4e16-482a-8bf1-5a243939d5a3" name="Changes" comment="" />
+      <created>1735562381214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735562381214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/luv2code/test/MockAnnotationTest.java</url>
+          <line>68</line>
+          <properties class="com.luv2code.test.MockAnnotationTest" method="testAssertNotNull">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
